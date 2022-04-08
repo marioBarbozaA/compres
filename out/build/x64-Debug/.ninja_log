@@ -1,0 +1,5 @@
+# ninja log v5
+20	554	6711390637000857	CMakeFiles/decompres.dir/decompres.c.obj	440de1fb13bab7da
+3	657	6711390636691681	CMakeFiles/compres.dir/compres.c.obj	127c40db198da7da
+561	2897	6711390659281650	decompres.exe	1c3a1ae38000c6c4
+667	2916	6711390659530976	compres.exe	66cf671a92880e6a

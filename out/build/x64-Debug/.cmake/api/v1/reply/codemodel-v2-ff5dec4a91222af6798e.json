@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d78a595bb34a4a3a1073.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "compres",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "clean-all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean-all-Debug-13c68cbc7708d82bfaa0.json",
+					"name" : "clean-all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "compres::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-compres-Debug-787290a7d0673b6cc83b.json",
+					"name" : "compres",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "decompres::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-decompres-Debug-dabf8bbc49d0907d5ab7.json",
+					"name" : "decompres",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mario/OneDrive/Documentos/GitHub/compres/out/build/x64-Debug",
+		"source" : "C:/Users/mario/OneDrive/Documentos/GitHub/compres"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
